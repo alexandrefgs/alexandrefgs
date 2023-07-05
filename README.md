@@ -3,12 +3,12 @@ Oiee! Eu sou o Alexandre Fagundes!
 - 🌱 Atualmente estou aprendendo C#, React e MySQL.
 <br>
 <div align="center">
-  <a href="https://github.com/alexnadrefgs/github-readme-stats">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/alexandrefgs/convoychat">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefgs&layout=compact&theme=dark" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefgs&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 </div><br>
   
 <div style="display: inline_block" align="center">
