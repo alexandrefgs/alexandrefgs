@@ -4,10 +4,10 @@ Oiee! Eu sou o Alexandre Fagundes!
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&theme=dark&card_width=480" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefgs&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefgs&layout=compact&langs_count=8&card_width=250&theme=dark" />
 </a>
 </div><br>
   
