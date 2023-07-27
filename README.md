@@ -35,13 +35,13 @@ Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades 
   ** Objetivos
 </p>
 <p>
-  - Contribuir para projetos de código aberto e colaborativos para aprender com a comunidade.
+  • Contribuir para projetos de código aberto e colaborativos para aprender com a comunidade.
 </p>
 <p>
-  - Participar de equipes de desenvolvimento para ganhar experiência prática e expandir meus conhecimentos.
+  • Participar de equipes de desenvolvimento para ganhar experiência prática e expandir meus conhecimentos.
 </p>
 <p>
-  - Continuar aprendendo e explorando novas tecnologias para me tornar um desenvolvedor mais completo.
+  • Continuar aprendendo e explorando novas tecnologias para me tornar um desenvolvedor mais completo.
 </p>
 <br>
 <div align="center">
