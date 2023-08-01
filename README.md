@@ -45,12 +45,16 @@ Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades 
 </p>
 <br>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefgs&layout=compact&langs_count=8&theme=dark" />
-</a>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&theme=dark" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img height="202px" width="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefgs&layout=compact&langs_count=8&theme=dark" />
+    </a>
+  </p>
 </div><br>
   
 <div style="display: inline_block" align="center">
