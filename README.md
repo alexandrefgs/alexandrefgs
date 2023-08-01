@@ -49,7 +49,7 @@ Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades 
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefgs&layout=compact&langs_count=8&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefgs&layout=compact&langs_count=8&theme=dark" />
 </a>
 </div><br>
   
