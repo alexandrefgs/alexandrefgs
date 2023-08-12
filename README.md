@@ -1,9 +1,9 @@
 <p>
-  ** Olá, sou o Alexandre Fagundes! 👋
+  Olá, sou o Alexandre Fagundes! 👋
 </p>
 
 <p>
-  ** Sobre mim **<br>
+  Sobre mim<br>
   Sou um entusiasta do desenvolvimento de software e estou iniciando minha jornada como desenvolvedor. Meu foco é aprender e aprimorar minhas habilidades em C# com ASP.NET, Angular, Azure, SQL Server e Razor Pages.
 </p>
 <p>
@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  ** Tecnologias e Ferramentas **<br>
+  Tecnologias e Ferramentas<br>
   Embora eu esteja iniciando na área, estou estudando e me dedicando às seguintes tecnologias e ferramentas:
 
   - Linguagens: C#, JavaScript, TypeScript
@@ -32,7 +32,7 @@ Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades 
    Um aplicativo básico desenvolvido com ASP.NET e C#, onde os usuários podem criar e gerenciar suas listas de tarefas diárias.
 -->
 <p>
-  ** Objetivos **
+  Objetivos
 </p>
 <p>
   • Contribuir para projetos de código aberto e colaborativos para aprender com a comunidade.
@@ -67,7 +67,7 @@ Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades 
 </div><br><br>
 
 <p>
-  ** Como me encontrar **<br>
+  Como me encontrar<br>
   Se você estiver interessado em trocar ideias sobre desenvolvimento ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato comigo!
   <div align="center"> 
     <a href="https://instagram.com/alexandre_fgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
