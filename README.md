@@ -10,7 +10,7 @@
   Estou empolgado com as possibilidades que a área de desenvolvimento oferece e estou em busca de oportunidades para aplicar meus conhecimentos em projetos práticos e desafiadores.
 </p>
 
-<p>
+<!--<p>
   Tecnologias e Ferramentas<br>
   Embora eu esteja iniciando na área, estou estudando e me dedicando às seguintes tecnologias e ferramentas:
 
@@ -22,7 +22,7 @@
   - Controle de Versão: Git
 </p>
 
-<!-- ## Projetos de Estudo
+## Projetos de Estudo
 Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades e conhecimentos. Alguns dos meus projetos em andamento incluem:
 
 1. **Site Pessoal**
@@ -30,7 +30,7 @@ Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades 
 
 2. **Aplicativo de Lista de Tarefas**
    Um aplicativo básico desenvolvido com ASP.NET e C#, onde os usuários podem criar e gerenciar suas listas de tarefas diárias.
--->
+
 <p>
   Objetivos
 </p>
@@ -44,6 +44,7 @@ Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades 
   • Continuar aprendendo e explorando novas tecnologias para me tornar um desenvolvedor mais completo.
 </p>
 <br>
+-->
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
