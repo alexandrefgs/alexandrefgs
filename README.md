@@ -31,7 +31,7 @@
 </div><br><br>
 
 <p>
-  How to reach me<br>
+  How to reach me. ❔<br>
   If you wanna chat about coding, feel free to hit me up!
   <div align="center"> 
     <a href="https://instagram.com/alexandre_fgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
