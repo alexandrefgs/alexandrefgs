@@ -34,8 +34,9 @@ Olá, sou o Alexandre e bem vindo ao meu GitHub. 👋
   Como me encontrar<br>
   Se você estiver interessado em trocar ideias sobre desenvolvimento ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato comigo!
   <div align="center"> 
-    <a href="https://instagram.com/alexandre_fgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/alexandre-fgs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/alexandre_fgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/alexandre-fgs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.github.com/alexandrefgs" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </div>
 </p>
 <p>
