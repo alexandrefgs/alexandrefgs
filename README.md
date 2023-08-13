@@ -1,11 +1,11 @@
 <p>
-Olá, sou o Alexandre e bem vindo ao meu GitHub. 👋
+  Hey there, I'm Alexandre, and welcome to my GitHub. 👋
 
-  🚀 Iniciei minha carreira como Desenvolvedor Web em 2023, enquanto estava cursando Análise e Desenvolvimento de Sistemas na Uniasselvi.
+  🚀 I kicked off my journey as a Web Developer back in 2023, and now I'm cruising through the second semester of ADS at Uniasselvi.
 
-  😍 Atualmente, estou estudando ASP.NET.
+  😍 Right now, I'm diving into ASP.NET.
 
-  📖 As vezes me aventuro no Front-end com Angular. 😂
+  📖 Oh, and every now and then, I play around with Angular on the Front-end. 😂
 </p>
 <br>
 <div align="center">
@@ -31,8 +31,8 @@ Olá, sou o Alexandre e bem vindo ao meu GitHub. 👋
 </div><br><br>
 
 <p>
-  Como me encontrar<br>
-  Se você estiver interessado em trocar ideias sobre desenvolvimento ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato comigo!
+  How to reach me<br>
+  If you wanna chat about coding, feel free to hit me up!
   <div align="center"> 
     <a href="https://instagram.com/alexandre_fgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/alexandre-fgs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
