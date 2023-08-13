@@ -1,50 +1,13 @@
 <p>
-  Olá, sou o Alexandre Fagundes! 👋
-</p>
+Olá, sou o Alexandre e bem vindo ao meu GitHub. 👋
 
-<p>
-  Sobre mim<br>
-  Sou um entusiasta do desenvolvimento de software e estou iniciando minha jornada como desenvolvedor. Meu foco é aprender e aprimorar minhas habilidades em C# com ASP.NET, Angular, Azure, SQL Server e Razor Pages.
-</p>
-<p>
-  Estou empolgado com as possibilidades que a área de desenvolvimento oferece e estou em busca de oportunidades para aplicar meus conhecimentos em projetos práticos e desafiadores.
-</p>
+  🚀 Iniciei minha carreira como Desenvolvedor Web em 2023, enquanto estava cursando Análise e Desenvolvimento de Sistemas na Uniasselvi.
 
-<!--<p>
-  Tecnologias e Ferramentas<br>
-  Embora eu esteja iniciando na área, estou estudando e me dedicando às seguintes tecnologias e ferramentas:
+  😍 Atualmente, estou estudando ASP.NET.
 
-  - Linguagens: C#, JavaScript, TypeScript
-  - Front-end: Angular, Razor Pages, HTML, CSS
-  - Back-end: .NET Core
-  - Banco de Dados: SQL Server, Azure SQL Database
-  - Cloud Computing: Microsoft Azure
-  - Controle de Versão: Git
-</p>
-
-## Projetos de Estudo
-Estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades e conhecimentos. Alguns dos meus projetos em andamento incluem:
-
-1. **Site Pessoal**
-   Um site pessoal simples desenvolvido com Angular e hospedado na plataforma Microsoft Azure. Esse projeto é uma forma de aplicar conceitos de front-end e back-end.
-
-2. **Aplicativo de Lista de Tarefas**
-   Um aplicativo básico desenvolvido com ASP.NET e C#, onde os usuários podem criar e gerenciar suas listas de tarefas diárias.
-
-<p>
-  Objetivos
-</p>
-<p>
-  • Contribuir para projetos de código aberto e colaborativos para aprender com a comunidade.
-</p>
-<p>
-  • Participar de equipes de desenvolvimento para ganhar experiência prática e expandir meus conhecimentos.
-</p>
-<p>
-  • Continuar aprendendo e explorando novas tecnologias para me tornar um desenvolvedor mais completo.
+  📖 As vezes me aventuro no Front-end com Angular. 😂
 </p>
 <br>
--->
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
