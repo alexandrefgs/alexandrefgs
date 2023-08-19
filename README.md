@@ -1,5 +1,5 @@
 <p>
-  Hey, I'm Alexandre, and this is my GitHub corner! 👋
+  Hey, I'm Alexandre, and this is my GitHub page! 👋
 
   🚀 I kicked off my journey as a Web Developer back in 2023, and now I'm cruising through the second semester of ADS at Uniasselvi.
 
