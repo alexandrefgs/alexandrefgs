@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou o Alexandre 👋</h1>
+<h1 align="center">Hey there! I'm Alexandre 👋</h1>
 
 <p align="center">
-  Desenvolvedor Web · Estudante de Analise e Desenvolvimento de Sistemas · Brasil 🇧🇷
+  Web Developer · Computer Science Student · Brazil 🇧🇷
 </p>
 
 <p align="center">
@@ -12,17 +12,17 @@
 
 ---
 
-## 🙋 Sobre mim
+## 🙋 About me
 
-- 🚀 Iniciei minha jornada como Desenvolvedor Web em **2023**
-- 🎓 Cursando **3º semestre de Ciência da Computação** na Uniassilve
-- 💼 Atualmente focado em **ASP.NET** no back-end
-- 🎨 Explorando **Angular** no front-end nas horas vagas
-- 📍 Brasil
+- 🚀 Started my journey as a Web Developer in **2023**
+- 🎓 Currently in my **3rd semester of Computer Science** at Uniasselvi
+- 💼 Focused on back-end development with **ASP.NET**
+- 🎨 Playing around with **Angular** on the front-end
+- 📍 Brazil
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 **Back-end**
 
@@ -35,14 +35,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Banco de Dados**
+**Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="160px" width="400px" src="https://github-readme-stats.vercel.app/api?username=alexandrefgs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -55,9 +55,9 @@
 
 ---
 
-## 📫 Fale comigo
+## 📫 Get in touch
 
-Curtiu algum projeto ou quer trocar ideia sobre código? Me chama! 😄
+Liked a project or want to talk about code? Hit me up! 😄
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexandre-fgs"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
