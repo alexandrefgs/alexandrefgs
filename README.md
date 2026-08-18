@@ -15,7 +15,7 @@
 ## 🙋 About me
 
 - 🚀 Started my journey as a Web Developer in **2023**
-- 🎓 Currently in my **3rd semester of Computer Science** at Uniasselvi
+- 🎓 Currently in my **4rd semester of Computer Science** at Uniasselvi
 - 💼 Focused on back-end development with **ASP.NET**
 - 🎨 Playing around with **Angular** on the front-end
 - 📍 Brazil
